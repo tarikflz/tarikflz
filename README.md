@@ -1,8 +1,10 @@
 # 💫 About Me:
-<br>🔭 I'm currently working as a Software Architect at **Etiya**
-<br>🌱 I'm currently learning **Golang** and **Next.js**
-<br>💼 Experienced in **PHP, Drupal**, **Symfony**, and **JavaScript**
-<br>🎯 Focused on building scalable and maintainable web applications
+<br>🔭 I'm currently working as a Software Architect at **Etiya**, focusing on enterprise-level web applications
+<br>🌱 Passionate about learning  **Golang** and **Next.js**
+<br>💻 7+ years of experience in full-stack development with expertise in **PHP**, **Drupal**, and **Symfony**
+<br>🎯 Specializing in building scalable web applications and microservices architecture
+<br>🚀 Strong advocate for clean code, best practices, and continuous learning
+<br>💡 Interested in software architecture, system design, and performance optimization
 <br>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tarikfiliz/)
 
 
