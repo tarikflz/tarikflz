@@ -1,5 +1,9 @@
 # 💫 About Me:
-- 🔭 I'm currently working as a Software Architect at **Etiya**<br>- 🌱 I'm currently learning **Golang** and **Next.js**<br>- 💼 Experienced in **PHP, Drupal**, **Symfony**, and **JavaScript**<br>- 🎯 Focused on building scalable and maintainable web applications<br>- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tarikfiliz/)
+<br>🔭 I'm currently working as a Software Architect at **Etiya**
+<br>🌱 I'm currently learning **Golang** and **Next.js**
+<br>💼 Experienced in **PHP, Drupal**, **Symfony**, and **JavaScript**
+<br>🎯 Focused on building scalable and maintainable web applications
+<br>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tarikfiliz/)
 
 
 ## 🌐 Socials:
